@@ -1,0 +1,37 @@
+/*nav{
+	background-color: #fff;	/*#F5AF57
+	height: 10%;
+	box-shadow: 0 10px 12px 0 rgba(0,0,0,0.14), 0 2px 4px 0 rgba(0,0,0,0.14);
+}*/
+
+#logo{
+	width:200px;
+	height: 100px;
+	margin-left: 50px;
+}
+.navbar-header img {
+    max-height: 110px;
+    width: auto;
+}
+
+#logo-container img {
+   width: auto;
+   height: auto;
+}
+
+body{
+  background:#192226 !important;
+}
+
+#hover{
+  display:block;
+  position:absolute;
+  width:0%;
+  height:100%;
+  top:0px;
+  left:0px;
+  background:#F5AF57 !important;
+  z-index:0;
+  opacity:0;
+}
+
